@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  placetest
 //
-//  Created by Benjamin Vigier on 11/20/17.
+//  Created by Ben Vigier on 11/20/17.
 //  Copyright © 2017 Benjamin Vigier. All rights reserved.
 //
 
